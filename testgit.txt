@@ -1,1 +1,15 @@
 test git!
+
+git config --global user.name "iamsmnt"
+
+git config --global user.email somnathmahato723@gmail.com
+
+git clone https://github.com/iamsmnt/test1.git
+
+git add testgit.txt
+
+git commit -m "first commit" testgit.txt
+
+git push -u origin master
+
+
